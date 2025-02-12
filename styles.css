@@ -1,0 +1,60 @@
+/* Basic body styling */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f8f9fa;
+}
+
+/* Header styling */
+h1 {
+    color: #333;
+}
+
+/* Search box styling */
+#searchBox {
+    width: 50%;
+    padding: 10px;
+    margin: 20px;
+    border: 2px solid #ff4500;
+    border-radius: 5px;
+}
+
+/* General button styling */
+button {
+    background-color: #ff4500;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+/* Hover effect for buttons */
+button:hover {
+    background-color: #ff6347;
+}
+
+/* Meal container to display search results and favorites */
+#mealContainer, #favContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+/* Individual meal card */
+.meal-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px;
+    background: white;
+    border-radius: 8px;
+    text-align: center;
+    width: 200px;
+}
+
+/* Meal image styling */
+.meal-card img {
+    width: 100%;
+    border-radius: 5px;
+}
