@@ -1,5 +1,7 @@
 # 🍽️ **Meal Finder App**
 
+GitHub link - https://github.com/Kunal-0821/Meal-app.git
+
 ## ✨ **Overview**
 
 The **Meal Finder App** is a **single-page web application** that allows users to **search for meals**, view **meal details**, and manage a list of **favorite meals**. The app integrates with **TheMealDB API** to fetch meal data, including images, names, and cooking instructions. 
